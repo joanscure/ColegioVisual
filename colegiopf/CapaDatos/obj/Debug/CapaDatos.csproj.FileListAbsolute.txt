@@ -1,0 +1,18 @@
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaDatos\bin\Debug\CapaDatos.dll.config
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaDatos\obj\Debug\CapaDatos.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\colegiopf\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Usuario\Desktop\colegiopf\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\colegiopf\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaDatos\obj\Debug\CapaDatos.pdb

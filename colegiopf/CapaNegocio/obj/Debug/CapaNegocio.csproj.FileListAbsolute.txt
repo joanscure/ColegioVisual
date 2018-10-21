@@ -1,0 +1,21 @@
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\bin\Debug\CapaDatos.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\bin\Debug\CapaDatos.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaNegocio\obj\Debug\CapaNegocio.pdb

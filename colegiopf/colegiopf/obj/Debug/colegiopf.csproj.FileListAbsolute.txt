@@ -1,0 +1,60 @@
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\obj\Debug\colegiopf.csprojResolveAssemblyReference.cache
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\obj\Debug\colegiopf.Properties.Resources.resources
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\obj\Debug\colegiopf.csproj.GenerateResource.Cache
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\bin\Debug\CapaPresentacion.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\bin\Debug\CapaNegocio.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\bin\Debug\CapaDatos.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\bin\Debug\CapaPresentacion.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\bin\Debug\CapaNegocio.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\colegiopf\bin\Debug\CapaDatos.pdb
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.config
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.manifest
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.application
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.pdb
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.TrustInfo.xml
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe.manifest
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.application
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.pdb
+E:\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.config
+E:\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe
+E:\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.pdb
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.config
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.pdb
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.manifest
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.application
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.pdb
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\colegiopf.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\colegiopf.Properties.Resources.resources
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\colegiopf.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.TrustInfo.xml
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe.manifest
+C:\Users\Usuario\Desktop\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.application
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe.manifest
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.application
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\I.E.P PRIMEROS FRUTOS.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\colegiopf.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\colegiopf.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\colegiopf.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.TrustInfo.xml
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.exe.manifest
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\colegiopf\obj\Debug\I.E.P PRIMEROS FRUTOS.application

@@ -1,0 +1,150 @@
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAlumno.resources
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaNegocio.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrAño.resources
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrMenu.resources
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrMenuProfesor.resources
+c:\users\reynaldo\documents\visual studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCurso.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrPadre.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMadre.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Frm0.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.vistacursoprofe.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProfesor.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.Alumnogite.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.VistaSiage.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrNota.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCursoAlumno.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleDeuda.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDeuda.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNlogin.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPago.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProfeCurso.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCurso.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProfeCurso.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaAlumno.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaAño.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaMadre.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaPadre.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaDeuda.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaDetalleDeuda.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProfesor.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.COP.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RProfesores.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RPadre.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RMadre.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.nota.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RNotas.resources
+C:\Users\Reynaldo\Documents\Visual Studio 2013\Projects\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RAlumnos.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.COP.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrAño.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrMenu.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrMenuProfesor.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrNota.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrPadre.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Frm0.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAlumno.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCurso.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCursoAlumno.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleDeuda.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDeuda.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMadre.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNlogin.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPago.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProfeCurso.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProfesor.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.Alumnogite.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.nota.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RAlumnos.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RMadre.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RNotas.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RPadre.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RProfesores.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaAlumno.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaAño.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCurso.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaDetalleDeuda.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaDeuda.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaMadre.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaPadre.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProfeCurso.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProfesor.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.VistaSiage.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.vistacursoprofe.resources
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.COP.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrAño.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrMenu.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrMenuProfesor.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrNota.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FmrPadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Frm0.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAlumno.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCurso.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCursoAlumno.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleDeuda.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDeuda.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNlogin.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPago.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProfeCurso.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProfesor.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.Alumnogite.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.nota.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RAlumnos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RMadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RNotas.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RPadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.RProfesores.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaAlumno.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaAño.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCurso.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaDetalleDeuda.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaDeuda.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaMadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaPadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProfeCurso.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProfesor.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.VistaSiage.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.vistacursoprofe.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\colegiopf\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
